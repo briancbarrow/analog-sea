@@ -3,7 +3,7 @@ body {
 	font-family: "Pontano Sans";
 }
 
-main{
+main {
 	width: 30%;
 	margin-right: auto;
 	margin-left: auto;
@@ -55,7 +55,6 @@ button {
 	margin-top: 10px;
 	display: block;
 	position: relative;
-	/*left: -7px;*/
 	background-color: #65c470;
 	height: 50px;
 	border-radius: 4px;
@@ -69,7 +68,7 @@ button:hover {
 	background-color: green;
 }
 
-.forgot a{
+.forgot a {
 	font-size: 13px;
 	color: gray;
 	position: relative;
